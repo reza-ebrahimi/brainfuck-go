@@ -40,7 +40,6 @@ func Execute(op string, indexPtr *int, program *[]uint32) {
 	switch op {
 	// Move the pointer to the right
 	case ">":
-		// check
 		if *indexPtr == 32000 {
 			break
 		}
