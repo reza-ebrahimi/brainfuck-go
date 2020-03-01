@@ -1,1 +1,1 @@
-### Stack-Based Brainfuck Interpreter Implemented in Go 
+### Stack-Based Brainfuck Language Interpreter Implemented in Go 
